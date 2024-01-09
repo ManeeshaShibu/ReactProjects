@@ -1,0 +1,10 @@
+.number-icons {
+  display: flex;
+  align-items: center;
+}
+
+.number-icons .number {
+  margin-right: 8px; 
+  font-size: 18px; 
+  color: #333;
+}

@@ -1,0 +1,69 @@
+.pill {
+    min-height: 60px;
+    min-width: 70%;
+    background: #00b4d8;
+    color: #f6f8f9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 40px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15);
+    text-align: center;
+}
+
+.board {
+    background: #0077b6 !important;
+    color: rgb(249, 245, 245);
+    font-size: large;
+     padding: 50px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.heroPill_1,
+.heroPill_2 {
+    min-height: 60px;
+    background: #0077b6;
+    color: rgb(252, 247, 247);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+    text-align: center;
+}
+.pic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.filler1,
+.filler2 {
+    min-height: 10px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.filler1 {
+    background: #03045e;
+}
+
+.filler2 {
+    background: #03045e;
+}
+
+.absoluteImage {
+    height: 5px;
+    width: 5px;
+}
+
+.profile {
+    max-width: 10px;
+    max-height: 200px;
+}
